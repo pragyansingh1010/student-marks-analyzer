@@ -1,0 +1,2 @@
+# Additional validation case 42
+assert 42 == 42
